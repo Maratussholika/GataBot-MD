@@ -8,17 +8,17 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰  
 
 global.owner = [
-['593993684821', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 💖🐈', true], 
-['50248656241', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 2 💖🐈', true], 
-['50663263081', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 3 💖🐈', true],  
-['5492266466080'],
-['595992599611'], ['5492266613038'], ['51914230910'], ['573136855110'], ['50689823726'], ['50495086382'], ['51960086535'],
-['5214531173598'], ['584125778026'], ['584166662765'], ['584163647116'], ['15512090312'], ['593968585383'], ['595986674310']]
+['94784153052', '⊷┈━━━〔 ⏤͟͟͞͞ ◉𝐃Ξ𝐗𝐓Ξ𝐑◉ ͟͞⏤〕━━━┈⊷ 💖🐈', true], 
+['94784153052', '⊷┈━━━〔 ⏤͟͟͞͞ ◉𝐃Ξ𝐗𝐓Ξ𝐑◉ ͟͞⏤〕━━━┈⊷ 2 💖🐈', true], 
+['94784153052', '⊷┈━━━〔 ⏤͟͟͞͞ ◉𝐃Ξ𝐗𝐓Ξ𝐑◉ ͟͞⏤〕━━━┈⊷ 3 💖🐈', true],  
+['94784153052'],
+['94784153052'], ['94784153052'], ['94784153052'], ['94784153052'], ['94784153052'], ['94784153052'], ['94784153052'],
+['94784153052'], ['94784153052'], ['94784153052'], ['94784153052'], ['94784153052'], ['94784153052'], ['94784153052']]
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 global.mods = [] 
-global.prems = ['528451003894'], 
+global.prems = ['94784153052'], 
    
   
 //⊱ ━━━━━.⋅ IDIOMA : LENGUAJE ⋅.━━━━ ⊰ 
@@ -94,23 +94,23 @@ global.APIKeys = { // APIKey Here
 
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
-global.packname = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 🐈'
-global.author = '𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
+global.packname = '⊷┈━━━〔 ⏤͟͟͞͞ ◉𝐃Ξ𝐗𝐓Ξ𝐑◉ ͟͞⏤〕━━━┈⊷ 🐈'
+global.author = '⊷┈━━━〔 ⏤͟͟͞͞ ◉𝐃Ξ𝐗𝐓Ξ𝐑◉ ͟͞⏤〕━━━┈⊷'
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.vs = '1.4.5'
 global.vsJB = '2.0'
 
-global.gt = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿'
-global.yt = 'https://youtube.com/@gatadios'
-global.yt2 = 'https://www.youtube.com/watch?v=Ko019wvu2Tc&t=71s'
-global.ig = 'https://www.instagram.com/gata_dios'
-global.md = 'https://github.com/GataNina-Li/GataBot-MD'
-global.fb = 'https://www.facebook.com/groups/872989990425789/'
+global.gt = '⊷┈━━━〔 ⏤͟͟͞͞ ◉𝐃Ξ𝐗𝐓Ξ𝐑◉ ͟͞⏤〕━━━┈⊷
+global.yt = 'https://youtube.com/@MARIOFF1726'
+global.yt2 = 'https://youtube.com/@MARIOFF1726'
+global.ig = 'https://www.facebook.com/profile.php?id=100078175149491&mibextid=ZbWKwL'
+global.md = 'https://github.com/kavishkaa9'
+global.fb = 'https://www.facebook.com/profile.php?id=100078175149491&mibextid=ZbWKwL'
 
 
-global.nna = 'https://chat.whatsapp.com/DVhu9S9Zr7cBFFl26N61U3' //UPDATE GATABOT
+global.nna = 'https://chat.whatsapp.com/DXvZE1fYzKfKK4hNWvKAaP' //UPDATE GATABOT
 global.nna2 = 'DVhu9S9Zr7cBFFl26N61U3'
 
 global.nn = 'https://chat.whatsapp.com/KwoMppqeh4lH27rNM4qEbz' //Grupo 1
@@ -131,7 +131,7 @@ global.nnnttt4 = 'https://chat.whatsapp.com/I3qjtQABJPaB65i2uhGe81' //Grupo 8 CO
 
 global.paypal = 'https://paypal.me/OficialGD'
 
-global.asistencia = 'Wa.me/18059196237' //Dudas? escríbeme...
+global.asistencia = 'Wa.me/94784153052' //Dudas? escríbeme...
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -165,8 +165,8 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 : 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
-global.igfg = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿'
+global.wm = '⊷┈━━━〔 ⏤͟͟͞͞ ◉𝐃Ξ𝐗𝐓Ξ𝐑◉ ͟͞⏤〕━━━┈⊷ : 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
+global.igfg = '⊷┈━━━〔 ⏤͟͟͞͞ ◉𝐃Ξ𝐗𝐓Ξ𝐑◉ ͟͞⏤〕━━━┈⊷'
 global.wait = '*⌛ _Cargando | Charging..._ ▬▭▭▭▭▭▭*'
 global.waitt = '*⌛ _Cargando | Charging..._ ▬▬▭▭▭*'
 global.waittt = '*⌛ _Cargando | Charging..._ ▬▬▬▬▭▭*'
